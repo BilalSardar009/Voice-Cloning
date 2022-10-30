@@ -12,5 +12,5 @@ license: mit
 
 Check out more spaces at (https://huggingface.co/BilalSardar)
 
-Editionally you have to dowmload a model for this:
+Editionally you have to dowmload two models for this:
 Avaiable on my voice cloning space on hugging face, link is given above.
